@@ -26,10 +26,10 @@ Curso: [Tipos de Operadores com Python](https://web.dio.me/course/tipos-de-opera
 <img src="https://hermes.dio.me/courses/cover/35a59ba3-1315-4b41-b620-784b8697966e_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 27/04/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/6A563CAC/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/C6AC714D/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/6A563CAC.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/C6AC714D.jpg" width="400" height="250">
 ---
