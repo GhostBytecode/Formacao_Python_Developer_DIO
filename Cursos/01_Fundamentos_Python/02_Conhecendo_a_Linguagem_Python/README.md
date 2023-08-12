@@ -26,10 +26,10 @@ Curso: [Conhecendo a Linguagem de Programação Python](https://web.dio.me/cours
 <img src="https://hermes.dio.me/courses/cover/e0e188c9-b6a0-480b-8193-db82af104f95_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 26/04/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/99627F8E/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/098B6790/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/99627F8E.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/098B6790.jpg" width="400" height="250">
 ---
