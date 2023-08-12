@@ -29,7 +29,7 @@ Curso: [Ambiente de Desenvolvimento e Primeiros Passos com Python](https://web.d
 Conclusão: 27/04/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/277C5A41/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/FC9D30E4/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/277C5A41.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/FC9D30E4.jpg" width="400" height="250">
 ---
