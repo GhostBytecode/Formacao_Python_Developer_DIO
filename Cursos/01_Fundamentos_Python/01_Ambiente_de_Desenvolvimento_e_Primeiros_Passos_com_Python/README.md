@@ -26,7 +26,7 @@ Curso: [Ambiente de Desenvolvimento e Primeiros Passos com Python](https://web.d
 <img src="https://hermes.dio.me/courses/cover/b85cb414-1694-45ee-8a52-c43c1ba0b6b9_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 27/04/2023
+Conclusão: 12/08/2023
 
 ---
 ## Certificado: [Roberto Silva](https://www.dio.me/certificate/FC9D30E4/share)
