@@ -26,10 +26,10 @@ Curso: [Estruturas Condicionais e de Repetição em Python](https://web.dio.me/c
 <img src="https://hermes.dio.me/courses/cover/1ef193b3-70ea-450d-96a0-64212fee23ea_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 30/04/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/7BE81429/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/6C40F893/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/7BE81429.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/6C40F893.jpg" width="400" height="250">
 ---
