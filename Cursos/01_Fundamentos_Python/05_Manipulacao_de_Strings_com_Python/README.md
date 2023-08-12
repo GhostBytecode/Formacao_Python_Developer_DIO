@@ -26,10 +26,10 @@ Curso: [Manipulação de Strings com Python](https://web.dio.me/course/dominando
 <img src="https://hermes.dio.me/courses/cover/122e9c37-1269-4332-b450-9f4cd688bb14_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 30/04/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/506448C9/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/A855B5A9/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/506448C9.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/A855B5A9.jpg" width="400" height="250">
 ---
