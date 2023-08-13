@@ -25,10 +25,10 @@ Curso: [Dominando Funções Python](https://web.dio.me/course/dominando-funcoes-
 <img src="https://hermes.dio.me/courses/cover/6106392d-a600-4fca-9a87-5a57d7dcef71_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 02/05/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/776E1840/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/3795860D/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/776E1840.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/3795860D.jpg" width="400" height="250">
 ---
