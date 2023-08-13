@@ -25,10 +25,10 @@ Curso: [Ampliando o conhecimento em POO com Python](https://web.dio.me/course/am
 <img src="https://hermes.dio.me/courses/cover/26826137-c4e3-46a3-a232-8a2b370920e5_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 09/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/A6FA33AE/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/7986DE4F/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/A6FA33AE.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/7986DE4F.jpg" width="400" height="250">
 ---
