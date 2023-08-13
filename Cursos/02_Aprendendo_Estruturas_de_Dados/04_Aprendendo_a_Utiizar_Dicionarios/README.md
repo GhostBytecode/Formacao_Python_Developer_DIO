@@ -25,10 +25,10 @@ Curso: [Aprendendo a Utiizar Dicionários em Python](https://web.dio.me/course/a
 <img src="https://hermes.dio.me/courses/cover/933ad234-a524-47c0-8b6f-c865985b8da9_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 02/05/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/A35136DD/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/7643E41F/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/A35136DD.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/7643E41F.jpg" width="400" height="250">
 ---
