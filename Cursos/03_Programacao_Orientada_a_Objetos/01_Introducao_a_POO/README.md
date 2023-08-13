@@ -25,10 +25,10 @@ Curso: [Introdução à Programação Orientada a Objetos (POO) com Python](http
 <img src="https://hermes.dio.me/courses/cover/5a216b98-c689-4e7f-98a7-c75145bcffed_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 08/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/62AFF86C/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/4DE97692/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/62AFF86C.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/4DE97692.jpg" width="400" height="250">
 ---
