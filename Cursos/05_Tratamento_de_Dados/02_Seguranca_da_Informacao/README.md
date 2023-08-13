@@ -25,11 +25,11 @@ Curso: [Segurança da Informação com Python](https://web.dio.me/course/seguran
 <img src="https://hermes.dio.me/courses/cover/4fd2851a-7c9d-4352-bef3-41c75fc9ede4_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 30/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/9E6566B9/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/BBDE9943/share)
 
-<img src="https://hermes.digitalinnovation.one/certificates/cover/9E6566B9.jpg" width="400" height="250">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/BBDE9943.jpg" width="400" height="250">
 
 ---
