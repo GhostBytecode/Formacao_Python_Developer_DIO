@@ -26,10 +26,10 @@ Curso: [Trabalhando com Listas em Python](https://web.dio.me/course/trabalhando-
 <img src="https://hermes.dio.me/courses/cover/31da9b6a-45e1-454e-8579-20e370d244fa_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 30/04/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/83711A5F/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/EBC000F7/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/83711A5F.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/EBC000F7.jpg" width="400" height="250">
 ---
