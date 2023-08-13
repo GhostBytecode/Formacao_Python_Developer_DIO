@@ -28,7 +28,7 @@ Curso: [Aplicando Encapsulamento em Python](https://web.dio.me/course/encapsulam
 Conclusão: 09/05/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/006EA0F6/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/37471E33/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/006EA0F6.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/37471E33.jpg" width="400" height="250">
 ---
