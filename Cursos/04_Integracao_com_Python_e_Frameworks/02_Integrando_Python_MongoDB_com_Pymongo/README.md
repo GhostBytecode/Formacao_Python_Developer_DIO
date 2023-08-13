@@ -25,10 +25,10 @@ Curso: [Integrando Python com MongoDB Utilizando Pymongo](https://web.dio.me/cou
 <img src="https://hermes.dio.me/courses/cover/2d84d52f-2742-4bfb-adcd-d9a0f6fe66de_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 15/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/66BEAB12/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/02E53655/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/66BEAB12.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/02E53655.jpg" width="400" height="250">
 ---
