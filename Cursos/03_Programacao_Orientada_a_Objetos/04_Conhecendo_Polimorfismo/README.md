@@ -25,10 +25,10 @@ Curso: [Conhecendo Polimorfismo em Python](https://web.dio.me/course/polimorfism
 <img src="https://hermes.dio.me/courses/cover/3d62d199-14d2-485c-8149-cc59335c525a_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 09/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/331CB2F7/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/071F9366/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/331CB2F7.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/071F9366.jpg" width="400" height="250">
 ---
