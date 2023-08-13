@@ -25,10 +25,10 @@ Curso: [Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy](
 <img src="https://hermes.dio.me/courses/cover/e9f9ba3f-9366-43d7-b344-5ba280fbcaba_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 12/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/47188E16/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/D8EC05BA/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/47188E16.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/D8EC05BA.jpg" width="400" height="250">
 ---
