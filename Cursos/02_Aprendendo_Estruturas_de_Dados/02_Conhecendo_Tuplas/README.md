@@ -26,10 +26,10 @@ Curso: [Conhecendo Tuplas em Python](https://web.dio.me/course/conhecendo-tuplas
 <img src="https://hermes.dio.me/courses/cover/e906a77e-c0d5-449a-98d6-a407ed8785e5_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 02/05/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/A30E8554/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/61D2342A/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/A30E8554.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/61D2342A.jpg" width="400" height="250">
 ---
