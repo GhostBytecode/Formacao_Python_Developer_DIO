@@ -22,11 +22,11 @@ Plataforma de ensinos: [DIO](www.dio.me)
 
 Curso: [Primeiros Passos com o Framework Django](https://web.dio.me/course/primeiros-passos-com-o-framework-django/learning/5fafa354-3dd5-4912-8928-6e5a4774c377?back=/track/formacao-python-developer&tab=undefined&moduleId=undefined)
 
-Conclusão: 16/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/D5A95C52/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/2C7E4582/share)
 
-<img src="https://hermes.digitalinnovation.one/certificates/cover/D5A95C52.jpg" width="400" height="250">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/2C7E4582.jpg" width="400" height="250">
 
 ---
