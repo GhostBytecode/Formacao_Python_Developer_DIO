@@ -22,11 +22,11 @@ Plataforma de ensinos: [DIO](www.dio.me)
 
 Curso: [Primeiros passos com o Framework Flask](https://web.dio.me/course/frameworks-primeiros-passos-com-flask/learning/16e1cf19-4185-49cc-9332-a9cf12d9d07b?back=/track/formacao-python-developer&tab=undefined&moduleId=undefined)
 
-Conclusão: 16/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/C89CB3BD/share)
+## Certificado: [Roberto SIlva](https://www.dio.me/certificate/B4FA8B98/share)
 
-<img src="https://hermes.digitalinnovation.one/certificates/cover/C89CB3BD.jpg" width="400" height="250">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/B4FA8B98.jpg" width="400" height="250">
 
 ---
