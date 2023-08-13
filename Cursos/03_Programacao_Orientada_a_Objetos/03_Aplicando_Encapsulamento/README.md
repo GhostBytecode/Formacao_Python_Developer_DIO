@@ -25,7 +25,7 @@ Curso: [Aplicando Encapsulamento em Python](https://web.dio.me/course/encapsulam
 <img src="https://hermes.dio.me/courses/cover/ba12fdd5-9d7f-4e31-a677-77191d08f7a2_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 09/05/2023
+Conclusão: 13/08/2023
 
 ---
 ## Certificado: [Roberto Silva](https://www.dio.me/certificate/37471E33/share)
