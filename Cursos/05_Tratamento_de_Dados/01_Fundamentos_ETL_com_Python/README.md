@@ -25,11 +25,11 @@ Curso: [Fundamentos de ETL com Python](https://web.dio.me/course/fundamentos-de-
 <img src="https://hermes.dio.me/courses/cover/bae80d84-7c03-4a2f-9909-8f673d5049d0_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 22/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/340BC623/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/8240C24C/share)
 
-<img src="https://hermes.digitalinnovation.one/certificates/cover/340BC623.jpg" width="400" height="250">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/8240C24C.jpg" width="400" height="250">
 
 ---
