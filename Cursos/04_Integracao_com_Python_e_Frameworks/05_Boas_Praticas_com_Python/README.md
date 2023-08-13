@@ -23,11 +23,11 @@ Plataforma de ensinos: [DIO](www.dio.me)
 Curso: [Boas Práticas com Python](https://web.dio.me/course/boas-praticas-com-python/learning/986f4b80-23fb-4e6c-a049-3e5120da71b8?back=/track/formacao-python-developer&tab=undefined&moduleId=undefined)
 
 
-Conclusão: 16/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/70B0CAF1/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/54017E95/share)
 
-<img src="https://hermes.digitalinnovation.one/certificates/cover/70B0CAF1.jpg" width="400" height="250">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/54017E95.jpg" width="400" height="250">
 
 ---
