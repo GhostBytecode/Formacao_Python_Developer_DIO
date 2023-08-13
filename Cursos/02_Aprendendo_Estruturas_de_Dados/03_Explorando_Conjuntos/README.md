@@ -25,10 +25,10 @@ Curso: [Explorando Conjuntos em Python](https://web.dio.me/course/explorando-con
 <img src="https://hermes.dio.me/courses/cover/ea2e3676-f79c-43b4-86aa-0b0512945dcf_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 02/05/2023
+Conclusão: 12/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/CA2C40F2/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/BD7BBA52/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/CA2C40F2.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/BD7BBA52.jpg" width="400" height="250">
 ---
