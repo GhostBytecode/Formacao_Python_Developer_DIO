@@ -25,7 +25,7 @@ Curso: [Desenvolvendo Rest APIs Com Python e Flask](https://web.dio.me/course/de
 <img src="https://hermes.dio.me/courses/badge/47288d46-5127-4c7e-abb7-1bcf274f67e0.png" alt="Curso Python DIO" width="200" height="200">
 
 
-Conclusão: 05/08/2023
+Conclusão: 13/08/2023
 
 ---
 ## Certificado: [Roberto Silva](https://www.dio.me/certificate/51E53595/share)
