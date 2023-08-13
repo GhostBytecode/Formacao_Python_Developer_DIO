@@ -25,10 +25,10 @@ Curso: [Aprendendo o Conceito de Herança com Python](https://web.dio.me/course/
 <img src="https://hermes.dio.me/courses/cover/04819a5e-10aa-4e63-8370-bdafdb50e353_cover.png" alt="Curso Python DIO" width="400" height="200">
 
 
-Conclusão: 08/05/2023
+Conclusão: 13/08/2023
 
 ---
-## Certificado: [Ariel Riello](https://www.dio.me/certificate/6ED92B49/share)
+## Certificado: [Roberto Silva](https://www.dio.me/certificate/6ED92B49/share)
 >
-><img src="https://hermes.digitalinnovation.one/certificates/cover/6ED92B49.jpg" width="400" height="250">
+><img src="https://hermes.digitalinnovation.one/certificates/cover/10DD93B5.jpg" width="400" height="250">
 ---
